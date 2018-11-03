@@ -1,6 +1,36 @@
 ## Workshop on Deep Learning  
-Wednesday, November 14, 2018 - 3:15 PM to 6 PM *
-Room 304, Express Scripts Hall
-
+Wednesday, November 14, 2018 - 3:15 PM to 6 PM *  
+Room 304, Express Scripts Hall  
 University of Missouri-St. Louis  
 Department of Mathematics & Computer Science
+
+### What will I learn?
+- Install Anaconda, Keras, and Tensorflow and running codes in Jupyter Notebooks - the platform to develop deep learning applications
+- Predict whether a person has diabetes or not using the medical attributes provided (binary classification using neural networks on the Pima Indian Diabetes dataset) and adapt the example to predict crime in St. Louis
+- Classify digit images using convolutional neural networks on the MNIST dataset (multi-class classification) and adapt the example to classify a small image dataset we curated
+	
+What do I need to bring with me? 
+A laptop to install Anaconda with Jupyter Notebook (we will not provide computers)
+
+Who can apply?
+You need to be able to code computer programs (it does not matter what language)
+
+Who will be registered?
+We have 25 seats. We will review all submitted applications and notify you if you are selected by Nov 12.
+	
+Will I receive a certificate?
+Yes, certificates will be awarded at conclusion of workshop to those who attend the workshop
+	
+How can I apply?
+Apply online at http://bit.ly/deeplearningworkshop 
+
+Who is organizing this workshop?
+We are a group of five students currently doing various deep learning projects at Prof. Adhikari’s “Machine Learning and Protein Structure Prediction Lab”
+	
+I have some questions, who should I contact?
+Anthony - akmqq@mail.umsl.edu	Cody - ch3rc@mail.umsl.edu
+Patrick - pkhc5@mail.umsl.edu		Brandon - bmknn3@mail.umsl.edu
+Som - spfh9@mail.umsl.edu
+
+* The actual workshop is from 4:00 PM to 6:00 PM but you need to arrive by 3:15 PM to install Anaconda and Jupyter Notebook required for the workshop.
+
