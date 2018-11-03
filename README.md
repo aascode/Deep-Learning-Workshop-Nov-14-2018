@@ -1,9 +1,10 @@
 ## Workshop on Deep Learning  
 ### Department of Mathematics & Computer Science
 ### University of Missouri-St. Louis  
-Wednesday, November 14, 2018 - 3:15 PM to 6 PM *  
+Wednesday, November 14, 2018 - 3:15 PM to 6 PM \*  
 Room 304, Express Scripts Hall  
 
+\* The actual workshop is from 4:00 PM to 6:00 PM but you need to arrive by 3:15 PM to install Anaconda and Jupyter Notebook required for the workshop.
 
 ### What will I learn?
 - Install Anaconda, Keras, and Tensorflow and running codes in Jupyter Notebooks - the platform to develop deep learning applications
@@ -35,5 +36,4 @@ Room 304, Express Scripts Hall
 - Brandon - bmknn3@mail.umsl.edu
 - Som - spfh9@mail.umsl.edu
 
-* The actual workshop is from 4:00 PM to 6:00 PM but you need to arrive by 3:15 PM to install Anaconda and Jupyter Notebook required for the workshop.
 
