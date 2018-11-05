@@ -8,7 +8,7 @@ Room 304, Express Scripts Hall
 \* The actual workshop is from 4:00 PM to 6:00 PM but you need to arrive by 3:15 PM to install Anaconda and Jupyter Notebook required for the workshop.
 
 ### What will I learn?
-- Install Anaconda, Keras, and Tensorflow and running codes in Jupyter Notebooks - the platform to develop deep learning applications
+- Running codes in Jupyter Notebooks - the platform to develop deep learning applications
 - Predict whether a person has diabetes or not using the medical attributes provided (binary classification using neural networks on the Pima Indian Diabetes dataset) and adapt the example to predict crime in St. Louis
 - Classify digit images using convolutional neural networks on the MNIST dataset (multi-class classification) and adapt the example to classify a small image dataset we curated
 	
