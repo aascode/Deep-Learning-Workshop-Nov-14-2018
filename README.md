@@ -1,4 +1,4 @@
-## Workshop on Deep Learning  
+## Hands-on Workshop on Deep Learning  
 http://umsl.edu/~adhikarib/
 #### Department of Mathematics & Computer Science  
 #### University of Missouri-St. Louis  
