@@ -5,7 +5,7 @@ http://umsl.edu/~adhikarib/
 Wednesday, November 14, 2018 - 3:15 PM to 6 PM \*  
 Room 304, Express Scripts Hall  
 
-\* The actual workshop is from 4:00 PM to 6:00 PM but you need to arrive by 3:15 PM to install Anaconda and Jupyter Notebook required for the workshop.
+\* The actual workshop is from 4:00 PM to 6:00 PM but you need to arrive by 3:15 PM to verify that you can access Microsoft Azure or Google Colab to run Python Notebooks.
 
 ### What will I learn?
 - Running codes in Jupyter Notebooks - the platform to develop deep learning applications
