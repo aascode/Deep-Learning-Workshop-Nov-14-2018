@@ -2,7 +2,7 @@
 http://umsl.edu/~adhikarib/
 #### Department of Mathematics & Computer Science  
 #### University of Missouri-St. Louis  
-Wednesday, November 14, 2018 - 3:15 PM to 6 PM \*  
+Wednesday, November 14, 2018 - 3:30 PM to 6 PM \*  
 Room 304, Express Scripts Hall  
 
 \* The actual workshop is from 4:00 PM to 6:00 PM but you need to arrive by 3:15 PM to verify that you can access Microsoft Azure or Google Colab to run Python Notebooks.
