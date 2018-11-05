@@ -1,3 +1,5 @@
+![Banner](workshop-banner.png)
+
 ## Hands-on Workshop on Deep Learning  
 http://umsl.edu/~adhikarib/
 #### Department of Mathematics & Computer Science  
