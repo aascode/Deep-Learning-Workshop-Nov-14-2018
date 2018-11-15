@@ -39,4 +39,4 @@ Room 304, Express Scripts Hall
 - Brandon - bmknn3@mail.umsl.edu
 - Som - spfh9@mail.umsl.edu
 
-
+![Participation](pic 1.png)
